@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:29:54	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%226317e2ab-239b%22	https://duckideluxe.github.io/robots.txt		(from )
+10:29:54	3857/3857	---M-Z	200	added ('OK')	text/html	etag:W/%22632b4140-f11%22	https://duckideluxe.github.io/RetroBowl/	C:/Users/lenovo/Desktop/HTTTRACK/r3trxbxwI/duckideluxe.github.io/RetroBowl/index.html	(from )
+10:29:54	820/820	---M--	200	added ('OK')	image/png	etag:%22632b4140-334%22	https://duckideluxe.github.io/RetroBowl/html5game/splash.png	C:/Users/lenovo/Desktop/HTTTRACK/r3trxbxwI/duckideluxe.github.io/RetroBowl/html5game/splash.png	(from https://duckideluxe.github.io/RetroBowl/)
+10:29:55	3038938/3038938	---M-Z	200	added ('OK')	application/javascript	etag:W/%22632b4140-2e5eda%22	https://duckideluxe.github.io/RetroBowl/html5game/RetroBowl.js	C:/Users/lenovo/Desktop/HTTTRACK/r3trxbxwI/duckideluxe.github.io/RetroBowl/html5game/RetroBowl.js	(from https://duckideluxe.github.io/RetroBowl/)
